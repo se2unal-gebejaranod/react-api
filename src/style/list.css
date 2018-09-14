@@ -1,0 +1,10 @@
+.list{
+	width: 100%;
+}
+
+.item{
+	/*display: inline;
+	border: 1px solid #3E7026;*/
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}

@@ -1,0 +1,21 @@
+*{
+	box-sizing: border-box;
+}
+
+
+.encabezado h1{
+	position: relative;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	margin-top: 0;
+	padding-top: 20px; 
+	color: #0B0B61;
+	font-size: 3em;
+}
+
+.encabezado{
+	background-image: url("../style/pasto.png");
+	height: 100px;
+	width: 100%;
+
+}
